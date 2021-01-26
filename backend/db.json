@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Car",
+            "price": "15597.95"
+        },
+        {
+            "id": 1,
+            "name": "Bike",
+            "price": "199.95"
+        },
+        {
+            "id": 1,
+            "name": "Tv",
+            "price": "997.57"
+        }
+    ]
+}
