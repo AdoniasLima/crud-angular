@@ -23,9 +23,20 @@ Crud application developed in angular and a simple back-end in json-server.
 
 ## Routes
 
+#### Angular
 |            URL    |Method|Description|
 |----------------|-------------------------------|-----------------------------|
-|/api|GET|Displays the interface for testing functions.|
+|/|GET|Home page.|
+|/products|GET|All products page.|
+|/products/create|GET|Create product page.|
+
+#### Json-server
+|            URL    |Method|Description|
+|----------------|-------------------------------|-----------------------------|
+|/products|GET|All products|
+|/products|POST|{name: "name_product", price: 123.45}|
+|/products|PUT|{id: id_number, name: "name_product", price: 123.45}|
+|/products/create|DELETE|{id: id_number}|
 
 ## Important Angular Commands
     command: ng new name_your_project --minimal
