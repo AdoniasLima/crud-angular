@@ -1,19 +1,29 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Car",
-            "price": "15597.95"
-        },
-        {
-            "id": 1,
-            "name": "Bike",
-            "price": "199.95"
-        },
-        {
-            "id": 1,
-            "name": "Tv",
-            "price": "997.57"
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Car",
+      "price": "15597.95"
+    },
+    {
+      "id": 2,
+      "name": "Bike",
+      "price": "199.95"
+    },
+    {
+      "id": 3,
+      "name": "Tv",
+      "price": "997.57"
+    },
+    {
+      "name": "Veio do form",
+      "price": "1.99",
+      "id": 4
+    },
+    {
+      "name": "TV X",
+      "price": "123.99",
+      "id": 5
+    }
+  ]
 }
